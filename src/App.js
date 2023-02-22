@@ -17,6 +17,10 @@ function App() {
         >
           Learn React
         </a>
+        <h1>Blue</h1>
+        <h1>Green</h1>
+        <h1>Violet</h1>
+        <h1>Red</h1>
       </header>
     </div>
   );
